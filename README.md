@@ -5,14 +5,6 @@ Move your mouse around the canvas to see how the algorithm classifies the point 
 
 ---
 
-# Demo
-
-**Live Demo:**  
-(After you enable GitHub Pages, your link will look like this:)  
-`https://your-username.github.io/knn-p5js/`
-
----
-
 # What It Does
 
 - Generates random red and green points on the canvas  
